@@ -1,23 +1,15 @@
 # developer.setUser("Asheyerth")
 
+## Life Quote 
+<p align="center">
+  <a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SpringVersion&quote=El%20mar%20muerto%20queda%20dulce%20ante%20la%20sal%20que%20llevo%20encima." />
+  </a>
+</p>
+
 ## ✨ About Me:
 System Engineer with a solid background in software support, database management, data processing, data analysis, and data visualization. Proficient in software development, object-oriented programming, algorithms and data structures, algorithm analysis, and DevOps practices, with experience using Git and GitHub.
 I’m highly adaptable to new environments, passionate about continuous learning, and skilled at problem-solving with available resources. I'm seeking a Data Scientist role where I can contribute and grow further in my professional journey. I’m also open to Full Stack and Backend positions.
-
-<!--
-**Asheyerth/Asheyerth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldine-patricia-walton-romero/)
@@ -89,12 +81,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Life Quote 
-<p align="center">
-  <a>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SpringVersion&quote=El%20mar%20muerto%20queda%20dulce%20ante%20la%20sal%20que%20llevo%20encima." />
-  </a>
-</p>
 
 
 
