@@ -1,12 +1,5 @@
 # developer.setUser("Asheyerth")
 
-## Life Quote 
-<p align="center">
-  <a>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SpringVersion&quote=El%20mar%20muerto%20queda%20dulce%20ante%20la%20sal%20que%20llevo%20encima." />
-  </a>
-</p>
-
 ## ✨ About Me:
 System Engineer with a solid background in software support, database management, data processing, data analysis, and data visualization. Proficient in software development, object-oriented programming, algorithms and data structures, algorithm analysis, and DevOps practices, with experience using Git and GitHub.
 I’m highly adaptable to new environments, passionate about continuous learning, and skilled at problem-solving with available resources. I'm seeking a Data Scientist role where I can contribute and grow further in my professional journey. I’m also open to Full Stack and Backend positions.
@@ -78,6 +71,13 @@ I’m highly adaptable to new environments, passionate about continuous learning
 <p align="center">
   <a>
     <img src="https://github-profile-trophy.vercel.app/?username=Asheyerth&theme=dracula&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=1&column=4">
+  </a>
+</p>
+
+## Life Quote 
+<p align="center">
+  <a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SpringVersion&quote=El%20mar%20muerto%20queda%20dulce%20ante%20la%20sal%20que%20llevo%20encima." />
   </a>
 </p>
 
