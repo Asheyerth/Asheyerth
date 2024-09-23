@@ -75,6 +75,26 @@ Here are some ideas to get you started:
 | ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) |
 
 
+## GitHub Stats:
+<p align="center">
+    <img style="width:454px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asheyerth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asheyerth&theme=dracula&hide_border=false"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Asheyerth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"><br>
+</p>
+
+## Github Achievements
+<p align="center">
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Asheyerth&theme=dracula&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=1&column=4">
+  </a>
+</p>
+
+## Life Quote 
+<p align="center">
+  <a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SpringVersion&quote=El%20mar%20muerto%20queda%20dulce%20ante%20la%20sal%20que%20llevo%20encima." />
+  </a>
+</p>
 
 
 
