@@ -76,17 +76,8 @@ I’m highly adaptable to new environments, passionate about continuous learning
 
 ## Life Quote 
 <p align="center">
-  <a>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SpringVersion&quote=El%20mar%20muerto%20queda%20dulce%20ante%20la%20sal%20que%20llevo%20encima." />
-  </a>
-    <a>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_SummerVersion&quote=No%20hay%20nada%20que%20resolver%20porque%20no%20hubo%20un%20conflicto%20en%20si,%20el%20conflicto%20estaba%20dentro%20de%20mí." />
-  </a>
     <a>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_RedAutumnVersion&quote=En%20el%20juego%20de%20poker%20que%20es%20la%20vida,%20solo%20puedes%20saber%20jugar%20tus%20cartas." />
-  </a>
-    <a>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&author=@Asheyerth_WinterVersion&quote=Pensar%20me%20cansa." />
   </a>
 </p>
 
