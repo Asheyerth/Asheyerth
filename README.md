@@ -8,10 +8,19 @@ I’m highly adaptable to new environments, passionate about continuous learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldine-patricia-walton-romero/)
 
 ## Skills:
+### Data
+| Technologies | Details |
+| ---- | ---- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge) ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-grey?style=for-the-badge) ![Psycopg2](https://img.shields.io/badge/psycopg2-white?style=for-the-badge) ![Pymongo](https://img.shields.io/badge/pymongo-purple?style=for-the-badge)![Folium](https://img.shields.io/badge/folium-red?style=for-the-badge) ![Geopandas](https://img.shields.io/badge/geopandas-pink?style=for-the-badge) ![Uvicorn](https://img.shields.io/badge/uvicorn-white?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/pydantic-purple?style=for-the-badge) ![Pickle](https://img.shields.io/badge/pickle-black?style=for-the-badge) ![statsmodels](https://img.shields.io/badge/statsmodels-blue?style=for-the-badge) |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)|
+| [Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)|
+| [Spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)|
+
 ### Backend
 | Technologies | Details |
 | ---- | ---- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge) ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-grey?style=for-the-badge) ![Psycopg2](https://img.shields.io/badge/psycopg2-white?style=for-the-badge) ![Pymongo](https://img.shields.io/badge/pymongo-purple?style=for-the-badge)![Folium](https://img.shields.io/badge/folium-red?style=for-the-badge) ![Geopandas](https://img.shields.io/badge/geopandas-pink?style=for-the-badge) ![Uvicorn](https://img.shields.io/badge/uvicorn-white?style=for-the-badge) ![Purple](https://img.shields.io/badge/pydantic-purple?style=for-the-badge) ![Pickle](https://img.shields.io/badge/pickle-black?style=for-the-badge) ![statsmodels](https://img.shields.io/badge/statsmodels-blue?style=for-the-badge) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Psycopg2](https://img.shields.io/badge/psycopg2-white?style=for-the-badge) ![Pymongo](https://img.shields.io/badge/pymongo-purple?style=for-the-badge)![Folium](https://img.shields.io/badge/folium-red?style=for-the-badge) ![Geopandas](https://img.shields.io/badge/geopandas-pink?style=for-the-badge) ![Uvicorn](https://img.shields.io/badge/uvicorn-white?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/pydantic-purple?style=for-the-badge) ![Pickle](https://img.shields.io/badge/pickle-black?style=for-the-badge) ![statsmodels](https://img.shields.io/badge/statsmodels-blue?style=for-the-badge) |
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-red?style=for-the-badge) |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white?style=for-the-badge)  |
 
@@ -59,13 +68,6 @@ I’m highly adaptable to new environments, passionate about continuous learning
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) |
 
-
-## GitHub Stats:
-<p align="center">
-    <img style="width:454px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asheyerth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asheyerth&theme=dracula&hide_border=false"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Asheyerth&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"><br>
-</p>
 
 ## Github Achievements
 <p align="center">
