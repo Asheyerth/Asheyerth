@@ -1,8 +1,10 @@
 # developer.setUser("Asheyerth")
 
 ## ✨ About Me:
-System Engineer with a solid background in software support, database management, data processing, data analysis, and data visualization. Proficient in software development, object-oriented programming, algorithms and data structures, algorithm analysis, and DevOps practices, with experience using Git and GitHub.
-I’m highly adaptable to new environments, passionate about continuous learning, and skilled at problem-solving with available resources. I'm seeking a Data Scientist role where I can contribute and grow further in my professional journey. I’m also open to Full Stack and Backend positions.
+I'm a Data scientist with a background as auxiliary analyst focused in database management, data processing, data analysis, and data visualization. Proficient in technology such as python and sql. 
+I have experience as data scientist (auxiliary analyst) and full stack (junior software support engineer). I've been part of professional projects such as migration of great volume of data, industrial software support and educational investigation analysis. 
+As a System Engineer, I have knowledge in software development, object-oriented programming (OOP), algorithms and data structures, algorithm analysis, algorithm complexity, DevOps practices, optimization, clean code, web scrapping, discrete math, lineal algebra, advanced stadistic, advanced calculus, physics, game desing, game development, cybersegurity, BIOS configuration and structure, Linux management, software architecture, UX design and database management.  
+I’m highly adaptable to new environments, passionate about continuous learning, and skilled at problem-solving with available resources.
 
 ## Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldine-patricia-walton-romero/)
