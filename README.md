@@ -54,9 +54,9 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 | ![Spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white) |
 
 ### Testing
-| Technologies | Details |
-| ---- | ---- |
-| ![Jmeter](https://img.shields.io/badge/jmeter-black?style=for-the-badge&logo=apachejmeter&logoColor=white) |  |
+| Technologies |
+| ---- |
+| ![Jmeter](https://img.shields.io/badge/jmeter-black?style=for-the-badge&logo=apachejmeter&logoColor=white) |
 
 ### Tools
 | Technologies |
