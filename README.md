@@ -22,7 +22,7 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 ### Frontend
 | Technologies | Details |
 | ---- | ---- |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux]() ![Express]() ![Pupeteer]() ![Nodeemalier]() ![Vue3]() ![Vite]() ![Sencha]() |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white) ![Express](https://img.shields.io/badge/Express-green?style=for-the-badge&logo=express&logoColor=white) ![Pupeteer](https://img.shields.io/badge/puppeteer-white?style=for-the-badge&logo=puppeteer&logoColor=black) ![Vue3](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vuedotjs&logoColor=green) ![Vite](https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite&logoColor=yellow) ![Sencha](https://img.shields.io/badge/sencha-green?style=for-the-badge&logo=sencha&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
@@ -30,19 +30,19 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 | Technologies | Details |
 | ---- | ---- |
 | SQL | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| noSQL | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![DynamoDB]() |
+| noSQL | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DyanmoDB-blue?style=for-the-badge) |
 
 ### Cloud & DevOps 
 | Technologies | Details |
 | ---- | ---- |
-| ![AWS]() | ![Lambda]() ![ApiGateway]() ![DynamoDB]() ![Cloudwatch]() |
-| ![Docker]() |  |
-| ![Linux]() |  |
+| ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge) | ![Lambda](https://img.shields.io/badge/Lambda-orange?style=for-the-badge) ![ApiGateway](https://img.shields.io/badge/APIgateway-violet?style=for-the-badge) ![DynamoDB](https://img.shields.io/badge/DyanmoDB-blue?style=for-the-badge) ![Cloudwatch](https://img.shields.io/badge/Cloudwatch-green?style=for-the-badge) |
+| ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white) |  |
+| ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yellow) |  |
 
 ### Blockchain
 | Technologies | Details |
 | ---- | ---- |
-| ![Etherium]() |  |
+| ![Etherium](https://img.shields.io/badge/ethereum-grey?style=for-the-badge&logo=ethereum&logoColor=yellow) |  |
 
 ### Data Science & Visualization
 | Technologies | Details |
@@ -56,7 +56,7 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 ### Testing
 | Technologies | Details |
 | ---- | ---- |
-| ![Jmeter]() |  |
+| ![Jmeter](https://img.shields.io/badge/jmeter-black?style=for-the-badge&logo=apachejmeter&logoColor=white) |  |
 
 ### Tools
 | Technologies |
