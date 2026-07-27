@@ -40,9 +40,9 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 | ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yellow) |  |
 
 ### Blockchain
-| Technologies | Details |
-| ---- | ---- |
-| ![Etherium](https://img.shields.io/badge/ethereum-grey?style=for-the-badge&logo=ethereum&logoColor=yellow) |  |
+| Technologies |
+| ---- |
+| ![Etherium](https://img.shields.io/badge/ethereum-grey?style=for-the-badge&logo=ethereum&logoColor=yellow) |
 
 ### Data Science & Visualization
 | Technologies | Details |
@@ -89,13 +89,6 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) |
 
-
-## Github Achievements
-<p align="center">
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Asheyerth&theme=dracula&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=1&column=4">
-  </a>
-</p>
 
 ## Life Quote 
 <p align="center">
