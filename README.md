@@ -9,14 +9,6 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldine-patricia-walton-romero/)
 
 ## Skills:
-### Data
-| Technologies | Details |
-| ---- | ---- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge) ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-grey?style=for-the-badge) ![Psycopg2](https://img.shields.io/badge/psycopg2-white?style=for-the-badge) ![Pymongo](https://img.shields.io/badge/pymongo-purple?style=for-the-badge)![Folium](https://img.shields.io/badge/folium-red?style=for-the-badge) ![Geopandas](https://img.shields.io/badge/geopandas-pink?style=for-the-badge) ![Uvicorn](https://img.shields.io/badge/uvicorn-white?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/pydantic-purple?style=for-the-badge) ![Pickle](https://img.shields.io/badge/pickle-black?style=for-the-badge) ![statsmodels](https://img.shields.io/badge/statsmodels-blue?style=for-the-badge) |
-| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
-| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) |
-| ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |
-| ![Spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white) |
 
 ### Backend
 | Technologies | Details |
@@ -37,6 +29,15 @@ I thrive in dynamic environments and am passionate about problem-solving—const
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+
+### Data
+| Technologies | Details |
+| ---- | ---- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge) ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-grey?style=for-the-badge) ![Psycopg2](https://img.shields.io/badge/psycopg2-white?style=for-the-badge) ![Pymongo](https://img.shields.io/badge/pymongo-purple?style=for-the-badge)![Folium](https://img.shields.io/badge/folium-red?style=for-the-badge) ![Geopandas](https://img.shields.io/badge/geopandas-pink?style=for-the-badge) ![Uvicorn](https://img.shields.io/badge/uvicorn-white?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/pydantic-purple?style=for-the-badge) ![Pickle](https://img.shields.io/badge/pickle-black?style=for-the-badge) ![statsmodels](https://img.shields.io/badge/statsmodels-blue?style=for-the-badge) |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) |
+| ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |
+| ![Spark](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white) |
 
 ### Tools
 | Technologies |
